@@ -13,4 +13,4 @@ Sou um engenheiro de dados apaixonado por pipelines eficientes, dados limpos e a
 - 🧠 [Análise de logs bancários](https://github.com/rafaelsanchez/log-banco)
 
 ## 💬 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/seuusuario/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/seuusuario/) https://www.linkedin.com/in/rafaelsanchez01/
