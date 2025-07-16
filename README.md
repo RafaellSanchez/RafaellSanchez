@@ -46,17 +46,18 @@ Pipeline completo de ingestão de dados com múltiplas fontes (APIs), transforma
 
 ---
 
-## 🔥 Atividade Recente
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaellSanchez&theme=tokyonight&hide_border=false)
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaellSanchez&show_icons=true&theme=tokyonight&hide=prs)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellSanchez&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Atividade Recente
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaellSanchez&theme=tokyonight&hide_border=false)
+
 
 
 
