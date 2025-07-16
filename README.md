@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @RafaellSanchez
-- 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  rafaelsanchesz@hotmail.com /  https://www.linkedin.com/in/rafaelsanchez01/
+# Olá, eu sou o Rafael 👋
 
+Sou um engenheiro de dados apaixonado por pipelines eficientes, dados limpos e ambientes multi-cloud ☁️🐍.
 
-<!---
-RafaellSanchez/RafaellSanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+
+## 📈 Projetos em destaque
+- 🔄 [Ingestão de dados multi-API](https://github.com/rafaelsanchez/projeto-ingestao)
+- 🧠 [Análise de logs bancários](https://github.com/rafaelsanchez/log-banco)
+
+## 💬 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/seuusuario/)
