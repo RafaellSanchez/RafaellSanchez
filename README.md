@@ -42,3 +42,11 @@ Pipeline completo de ingestão de dados com múltiplas fontes (APIs), transforma
 ---
 
 > ⚡ "Transformar dados em decisões é mais do que técnica – é estratégia."
+
+
+---
+
+## 🔥 Atividade Recente
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rafaelsanchez&theme=tokyonight&hide_border=false)
+
